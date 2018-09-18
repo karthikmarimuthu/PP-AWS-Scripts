@@ -1,4 +1,4 @@
-# aws-scripts -- forked from varunchandak
+# aws-scripts -- by varunchandak
 ---
 ## Collection of AWS scripts
 * add-slack-alerts
